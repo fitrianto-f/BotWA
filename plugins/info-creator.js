@@ -10,7 +10,7 @@ VERSION:3.0
 N:Sy;Bot;;;
 FN: TioXd
 item.ORG: Creator Bot
-item1.TEL;waid=6282221792667:6282221792667@s.whatsapp.net
+item1.TEL;waid=6281226122566:6281226122566
 item1.X-ABLabel:Nomor Creator Bot / Owner Bot
 item2.EMAIL;type=INTERNET:Kalo Chat Gak Penting Gak Akan Di Balas.
 item2.X-ABLabel:Email
