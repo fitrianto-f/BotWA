@@ -13,17 +13,14 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let uptime = clockString(_uptime)
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
-    let title = `*© BOTCAHX*`
-    let tmb = `CLICK HERE ⎙`
+    let title = `*© XIN BOT*`
+    let tmb = `KLIK DISINI ⎙`
     const sections = [ {
 	title: `Aktif Selama ${uptime} || Waktu ${time} WIB`,
 	rows: [
 	{title: `Semua Perintah`, rowId: `.allmenu `},//, description: ``},
         {title: `MenuV2`, rowId: `.pay `},//, description: ``},
         {title: `Donasi`, rowId: `#donasi `},//, description: ``},
-        {title: `Script`, rowId: `#sc `},//, description: ``},
-        {title: `Group Official`, rowId: `#gcbot `},//, description: ``},
-        {title: `Website Official`, rowId: `#web `},//, description: ``},
         {title: `Speed`, rowId: `#speed `},//, description: ``},
         {title: `List Texpro Maker`, rowId: `#textpro `},//, description: ``},
         {title: `Info`, rowId: `#info `},//, description: ``},
