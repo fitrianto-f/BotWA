@@ -19,8 +19,8 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync('./media/thumbnail.jpg') //Gambarnya
 					},
-					"title": wm, //Kasih namalu 
-					"description": "Botcahx", 
+					"title": "XIN BOT", //Kasih namalu 
+					"description": "XIN BOT", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
 					"retailerId": "Ghost",
@@ -40,7 +40,7 @@ global.ftroli = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: wm, //Kasih namalu
+                            message: XIN BOT, //Kasih namalu
                             orderTitle: 'Bang',
                             thumbnail: fs.readFileSync('./media/thumbnail.jpg'), //Gambarnya
                             sellerJid: '0@s.whatsapp.net'
