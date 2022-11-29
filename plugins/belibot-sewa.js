@@ -1,6 +1,6 @@
 let fetch = require('node-fetch') 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-let gh = 'https://wa.me/628122612256'
+let gh = 'https://wa.me/6281226122566'
   let buttonMessage= {
 'document':{'url':gh},
 'mimetype':'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
