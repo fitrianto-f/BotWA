@@ -1,6 +1,6 @@
 let fetch = require('node-fetch') 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-let gh = 'https://wa.me/6281226122566'
+let gh = 'https://wa.me/6282327908993'
   let buttonMessage= {
 'document':{'url':gh},
 'mimetype':'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
@@ -14,11 +14,11 @@ let gh = 'https://wa.me/6281226122566'
 'mediaType':2,
 'previewType':'pdf',
 'title':'Jangan di Klik',
-'body':'©XIN BOT',
+'body':'© FAJAR BOT',
 'thumbnail':await(await fetch('https://telegra.ph/file/7ee90ebdf7bf122b25ed4.jpg')).buffer(),
 'sourceUrl':gh}},
-'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 081226122566\n*x* Pulsa: 081226122566',
-'footer':'©XIN BOT',
+'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 081226122566\n*x* Pulsa: 6282327908993',
+'footer':'© FAJAR BOT',
 'buttons':[
 {'buttonId':'.menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
 {'buttonId':'.donasi','buttonText':{'displayText':'ᴅᴏɴᴀsɪ'},'type':1}
